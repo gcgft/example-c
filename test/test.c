@@ -7,5 +7,7 @@ int main(){
 
     result = hello(1);
 
-    return(result);
+    printf("Result: %d", result);
+
+    return(0);
 }
