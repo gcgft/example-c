@@ -1,8 +1,8 @@
 language: c
 #sudo: false # only for faster builds
 script:
-  - clang -coverage -O0 src/hello.c test/test.c -o test
-  - ./test
+  - clang -coverage -O0 src/hello.c test/test.c -o test/testhello
+  - ./test/testhello
   - gcov hello.c
   - gcov hello.h
   - gcov test.c
