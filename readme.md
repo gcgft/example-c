@@ -1,6 +1,9 @@
 Codecov C/C++ Example
 =====================
 
+[![Build Status](https://travis-ci.org/gcgft/example-c.svg?branch=master)](https://travis-ci.org/gcgft/example-c)
+[![codecov.io](https://codecov.io/github/gcgft/example-c/coverage.svg?branch=master)](https://codecov.io/github/gcgft/example-c?branch=master)
+
 | [https://codecov.io][1] | [@codecov][2] | [hello@codecov.io][3] |
 | ----------------------- | ------------- | --------------------- |
 
